@@ -72,5 +72,3 @@ Here’s a snapshot of the interactive dashboard created in Excel:
 ---
 
 ### ⭐ If you found this project insightful, consider giving it a star on GitHub!
-
-### ⭐ If you found this project insightful, consider giving it a star on GitHub!
