@@ -40,10 +40,9 @@ The analysis focuses on customer orders, product details, and sales performance.
 ## 📈 Data Visualization
 - Created **Pivot Charts** for visual insights.
 - Built an **Interactive Dashboard** with slicers to filter by:
-  - Country
-  - Coffee Type
+  - Coffee Size in kg
   - Roast Type
-  - Customer
+  - Loyalty Card
 
 ---
 
